@@ -13,7 +13,7 @@ sudo chmod +x nym-gateway
 ~~~
 
 ~~~
-./nym-gateway init --id Nodes-Hub --listening-address 0.0.0.0 --public-ips "$(curl -4 https:/ifconfig.me)" --with-network-requester --with-exit-policy true
+./nym-gateway init --id tunodo --listening-address 0.0.0.0 --public-ips "$(curl -4 https:/ifconfig.me)" --with-network-requester --with-exit-policy true
 ~~~
 
 ~~~
