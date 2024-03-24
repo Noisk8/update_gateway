@@ -35,7 +35,11 @@ change version
 ~~~
 sudo systemctl daemon-reload
 ~~~
-  
+
+~~~
+sudo ufw allow 8080
+~~~
+
 ~~~
 sudo systemctl restart nym-gateway.service
 ~~~
