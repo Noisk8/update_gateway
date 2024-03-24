@@ -1,4 +1,4 @@
-# update_gateway
+# update_gateway Rapido y furioso
 
 ~~~
 sudo systemctl stop nym-gateway.service
